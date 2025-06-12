@@ -1,20 +1,15 @@
-# TP1 - Variables  
-## Trabajo práctico para comprender conceptos de JavaScript.
+# 🚀 Prácticas – JavaScript Básico
 
-Trabajo práctico enfocado en el uso de **variables** en JavaScript.  
-El objetivo es aprender a declarar variables utilizando `var`, `let` y `const`, y conocer los tipos de datos básicos del lenguaje.
+¡Bienvenid@! 👋  
+En este repositorio encontrarás ejercicios diseñados para que afiances tus conocimientos en **JavaScript**. Son prácticos, breves y van directo al punto, perfectos para quienes están empezando en el mundo de la programación.
 
-# Tecnologías utilizadas:
-- HTML5  
-- JavaScript  
-- [Bootstrap](https://getbootstrap.com/docs/5.3/getting-started/introduction/)  
+---
 
-# Cómo ejecutar el proyecto:
-1. Clonar el repositorio escribiendo en una terminal el siguiente comando:  
-   `git clone https://github.com/JQNPro10/tp1-Variables`
-2. Luego abrí el archivo `index.html` con un navegador.
-3. Abrí la consola del navegador (F12) para visualizar los resultados del archivo `script.js`.
+## 🛠 Herramientas utilizadas
 
-# Autor
+Estos ejercicios se desarrollan con tecnologías simples y accesibles:
 
-- [Joaquín Albornoz Bresla](https://github.com/JQNPro10)
+- 📄 **HTML** → para estructurar el contenido web.  
+- ⚙️ **JavaScript** → para implementar la lógica y la interactividad.
+
+Puedes correr todo fácilmente desde cualquier navegador, sin necesidad de configuraciones complejas.

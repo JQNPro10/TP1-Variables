@@ -1,2 +1,2 @@
-let nombre = prompt("¿Cual es tu nombre?")
+const nombre = prompt("¿Cual es tu nombre?")
 alert("Hola " + nombre)

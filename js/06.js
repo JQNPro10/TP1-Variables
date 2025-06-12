@@ -1,5 +1,5 @@
-let n1 = prompt("di un numero")
-let n2 = prompt("di otro numero")
+const n1 = prompt("di un numero")
+const n2 = prompt("di otro numero")
 if (n1 > n2){
     alert("El numero mas grande es: " + n1)
 } else {
