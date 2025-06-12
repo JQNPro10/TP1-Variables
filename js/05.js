@@ -1,3 +1,3 @@
-let n1 = parseInt(prompt("di un numero"))
-let n2 = parseInt(prompt("di otro numero"))
-alert(n1 + n2)
+const n1 = parseInt(prompt("di un numero"))
+const n2 = parseInt(prompt("di otro numero"))
+alert("La suma de estos numeros es: ", n1 + n2)

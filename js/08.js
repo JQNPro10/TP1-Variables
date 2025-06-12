@@ -1,4 +1,4 @@
-let n = parseInt(prompt("Ingresa un número:"));
+const n = parseInt(prompt("Ingresa un número:"));
 
 if (n % 2 === 0) {
   alert(`El numero es divisible entre 2.`);
